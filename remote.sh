@@ -1,1 +1,0 @@
-ssh e8lliuha@shell.tamk.fi
